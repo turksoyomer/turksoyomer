@@ -5,24 +5,95 @@
 </p>
 
 <Br>
-<h1 align="center">Tools I use!</h1>
+<h1 align="center">My Skills</h1>
 <Br>
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp;
+  <a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python"/>
+  </a>
+  &emsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img alt="CSharp" src="https://img.shields.io/badge/csharp-61007d?style=for-the-badge&logo=csharp&logoColor=white"/>
+  </a>
+</p>
+
+### 👉 Frameworks
+<p align="left"> 
+  &emsp;
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-F2765D?style=for-the-badge&logo=pytorch"/>
+  </a>
+  &emsp; 
+  <a href="https://www.tensorflow.org/" target="_blank"> 
+   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </a>    
+  &emsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/flask-0c0b09.svg?&style=for-the-badge&logo=flask&logoColor=white">
+  </a>  
+  &emsp;
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://keras.io/" target="_blank"> 
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+  </a>
+
+</p>
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.digitalocean.com/"><img alt="DigitalOcean" src="https://img.shields.io/badge/digitalocean-008bcf?style=for-the-badge&logo=digitalocean&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  &emsp;
+  <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-039BE5.svg?&style=for-the-badge&logo=firebase"></a>
+  &emsp;
+  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  
+ </p>
+
+ ### 👉 Software & Tools
  
-|![](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python)|![](https://img.shields.io/badge/Pytorch-F2765D?style=for-the-badge&logo=pytorch)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/flask-0c0b09.svg?&style=for-the-badge&logo=flask&logoColor=white)|![](https://img.shields.io/badge/digitalocean-008bcf?style=for-the-badge&logo=digitalocean&logoColor=white)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/firebase-039BE5.svg?&style=for-the-badge&logo=firebase)|![](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)|![](https://img.shields.io/badge/csharp-61007d?style=for-the-badge&logo=csharp&logoColor=white)|![](https://img.shields.io/badge/unity-0c0b09?style=for-the-badge&logo=unity&logoColor=white)|![](https://img.shields.io/badge/And%20More!-334d00?style=for-the-badge)|
-  
-  
+<p>
+  &emsp;
+    <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/unity-0c0b09?style=for-the-badge&logo=unity&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+    &emsp; 
+    <a href="#"><img alt="Asana" src="https://img.shields.io/badge/Asana-fc636b?style=for-the-badge&logo=Asana&logoColor=white"></a>
+    &emsp;
+    
+</p>
+
 <Br>
-<h1 align="center">My Github Stats!</h1>
+<h1 align="center">My GitHub Stats</h1>
 <Br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turksoyomer&count_private=true&show_icons=true&theme=prussian&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turksoyomer&hide=jupyter%20notebook&langs_count=10&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <br>
-<h1 align="center">Get in Touch!</h1>
+<br>
+<h1 align="center">Let's Get in Touch</h1>
 <Br>
 
 <p align="center">
