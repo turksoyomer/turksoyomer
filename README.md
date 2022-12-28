@@ -18,6 +18,7 @@
 <Br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turksoyomer&count_private=true&show_icons=true&theme=prussian&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turksoyomer&hide=jupyter%20notebook&langs_count=10&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
