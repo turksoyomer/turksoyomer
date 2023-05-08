@@ -24,6 +24,10 @@
 ### 👉 Frameworks
 <p align="left"> 
   &emsp;
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img alt="Django" src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django"/>
+  </a>
+  &emsp;
   <a href="https://pytorch.org/" target="_blank"> 
     <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-F2765D?style=for-the-badge&logo=pytorch"/>
   </a>
@@ -53,6 +57,8 @@
   &emsp;
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   &emsp;
+    <a href="https://redis.io/"><img alt="Redis" src ="https://img.shields.io/badge/redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/></a>
+  &emsp;
   <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-039BE5.svg?&style=for-the-badge&logo=firebase"></a>
   &emsp;
   <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -62,6 +68,8 @@
  ### 👉 Software & Tools
  
 <p>
+  &emsp;
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></a>
   &emsp;
     <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/unity-0c0b09?style=for-the-badge&logo=unity&logoColor=white"></a>
   &emsp;
